@@ -44,14 +44,16 @@ The following ML algorithms were trained and evaluated:
 ### Run Streamlit App
 
 How to Use the Web App
+
 Enter details:
-Household size
-Temperature
-Peak Hours Usage
-Month, Day
-DayOfWeek
-Weekend or not
-AC availability
+Household size,
+Temperature,
+Peak Hours Usage,
+Month, Day,
+DayOfWeek,
+Weekend or not,
+AC availability,
+
 Click Predict
 
 The app displays predicted Energy Consumption (kWh)
