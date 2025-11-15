@@ -2,7 +2,7 @@
 
 This project predicts **household energy consumption (kWh)** based on various factors such as temperature, AC usage, household size, and peak-hour consumption.  
 
-## 📌 Project Overview
+##  Project Overview
 
 Traditional manual methods of estimating household energy consumption are inaccurate and unreliable.  
 This project uses **Machine Learning** to build a predictive model that helps forecast energy usage more efficiently.
